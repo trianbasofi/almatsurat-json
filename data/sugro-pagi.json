@@ -71,6 +71,12 @@
       "type": "parent",
       "data": [
         {
+          "title": "Basmalah",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ،",
+          "latin": "Bismillāhi r-raḥmāni r-raḥīm",
+          "translation": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang"
+        },
+        {
           "title": "Ayat 1",
           "arabic": "الٓمٓ ١",
           "latin": "Alif lām mīm",
