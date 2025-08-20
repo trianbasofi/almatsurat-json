@@ -6,8 +6,8 @@
       "title": "Pembuka",
       "repeat": 1,
       "type": "single",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ،",
-      "latin": "Bismillāhir-raḥmānir-raḥīm",
+      "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ،",
+      "latin": "Bismillāhir-raḥmānir-raḥīm(i).",
       "translation": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang."
     },
     {
@@ -30,7 +30,7 @@
       "title": "Doa Perlindungan dan Penyerahan Diri",
       "repeat": 1,
       "type": "single",
-      "arabic": "اَللّٰهُمَّ أَنْتَ غِيَاثُنَا فَبِكَ نَغُوْثُ، وَأَنْتَ عِيَاذُنَا فَبِكَ نَعُوْذُ، وَأَنْتَ مَلَاذُنَا فَبِكَ نَلُوْذُ، يَا مَنْ ذَلَّتْ لَهُ رِقَابُ الْجَبَابِرَةِ وَخَضَعَتْ لَهُ مَقَالِيْدُ الْفَرَاعِنَةِ، أَجِرْنَا مِنْ خِزْيِكَ وَعُقُوْبَتِكَ فِى لَيْلِنَا وَنَهَارِنَا وَنَوْمِنَا وَقَرَارِنَا لَاإِلٰهَ إِلَّا أَنْتَ، تَعْظِيْمًا لِوَجْهِكَ وَتَكْرِيْمًا لِسُبْحَاتِكَ فَاصْرِفْ عَنَّا شَرَّ عِبَادِكَ، اِجْعَلْنَا فِى حِفْظِ عِنَايَتِكَ، وَسُرَادِقَاتِ حِفْظِكَ، وَعُدْ عَلَيْنَا بِخَيْرٍ مِنْكَ يَا أَرْحَمَ الرَاحِمِينَ",
+      "arabic": "اَللّٰهُمَّ أَنْتَ غِيَاثُنَا فَبِكَ نَغُوْثُ . وَأَنْتَ عِيَاذُنَا فَبِكَ نَعُوْذُ . وَأَنْتَ مَلَاذُنَا فَبِكَ نَلُوْذُ . يَا مَنْ ذَلَّتْ لَهُ رِقَابُ الْجَبَابِرَةِ وَخَضَعَتْ لَهُ مَقَالِيْدُ الْفَرَاعِنَةِ . أَجِرْنَا مِنْ خِزْيِكَ وَعُقُوْبَتِكَ فِى لَيْلِنَا وَنَهَارِنَا وَنَوْمِنَا وَقَرَارِنَا لَاإِلٰهَ إِلَّا أَنْتَ . تَعْظِيْمًا لِوَجْهِكَ وَتَكْرِيْمًا لِسُبْحَاتِكَ فَاصْرِفْ عَنَّا شَرَّ عِبَادِكَ . اِجْعَلْنَا فِى حِفْظِ عِنَايَتِكَ . وَسُرَادِقَاتِ حِفْظِكَ . وَعُدْ عَلَيْنَا بِخَيْرٍ مِنْكَ يَا أَرْحَمَ الرَاحِمِينَ",
       "latin": "Allāhumma anta ghiyāṡunā fabika naghūtsu, wa anta ‘iyāżunā fabika na‘ūżu, wa anta malāżunā fabika nalūżu, yā man żallat lahu riqābul-jabābirati wa khaḍa‘at lahu maqālīdul-farā‘inah, ajirnā min khizyakika wa ‘uqūbatika fī lailinā wa nahārinā wa nauminā wa qarārinā lā ilāha illā anta ta‘ẓīman liwajhika wa takrīman lisubḥānika faṣrif ‘annā syarra ‘ibādika, ij‘alnā fī ḥifẓi ‘ināyatika wa surādiqi ḥifẓika wa ‘ud ‘alainā bikhairin minka yā arḥamar-rāḥimīn.",
       "translation": "Ya Allah Engkau adalah penolong kami, maka kepada-Mu kami mohon pertolongan, Engkau adalah pelindung kami, maka kepada-Mu kami mohon perlindungan, Engkau benteng kami, maka kepada-Mu kami mohon dibentengi. Wahai Dzat yang tunduk pada-Nya kesombongan, dan tunduk pada-Nya keangkuhan dan kecongkakan, selamatkanlah kami dari kehinaan dan siksa-Mu, saat malam kami, tidur kami, dan saat terjaga kami. Tidak ada Tuhan kecuali Engkau. Semata-mata karena mengagungkan wajah-Mu dan memuliakan kesucian-Mu, maka hindarkanlah kami dari kejahatan hamba-Mu. Masukkanlah kami ke dalam naungan pertolongan-Mu dan penjagaan-Mu. Kembalikanlah atas kami kebaikan dari-Mu, wahai Dzat yang Maha Pengasih lagi Maha Penyayang."
     },
@@ -54,7 +54,7 @@
       "title": "Doa Memohon Cinta",
       "repeat": 1,
       "type": "single",
-      "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ حُبَّكَ وَحُبَّ مَنْ يَنْفُعَنَا حُبُّهُ عِنْدَكَ، اَللّٰهُمَّ مَا رَزَقْتَنَا مِمَّا نُحِبُّ فَاجْعَلْهُ قُوَّةً لَنَا فِيْمَا تُحِبُّ، اَللّٰهُمَّ مَا زَوَيْتَ عَنَّا مِمَّا نُحِبُّ فَاجْعَلْهُ فَرَاغًا لَنَا فِيْمَا تُحِبُّ",
+      "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ حُبَّكَ وَحُبَّ مَنْ يَنْفُعَنَا حُبُّهُ عِنْدَكَ . اَللّٰهُمَّ مَا رَزَقْتَنَا مِمَّا نُحِبُّ فَاجْعَلْهُ قُوَّةً لَنَا فِيْمَا تُحِبُّ . اَللّٰهُمَّ مَا زَوَيْتَ عَنَّا مِمَّا نُحِبُّ فَاجْعَلْهُ فَرَاغًا لَنَا فِيْمَا تُحِبُّ",
       "latin": "Allāhumma innā nas’aluka ḥubbaka wa ḥubba man yanfa‘unā ḥubbuhu ‘indaka, Allāhumma mā razaqtanā mimmā nuḥibbu faj‘alhu quwwatan lanā fīmā tuḥibbu, Allāhumma mā zawaita ‘annā mimmā nuḥibbu faj‘alhu farāghan lanā fīmā tuḥibbu.",
       "translation": "Ya Allah kami mohon kepada-Mu cinta-Mu dan cintanya orang yang memberi manfaat kepada kami, cintanya di sisi-Mu. Ya Allah apa yang Engkau berikan kepada kami dari apa yang kami cintai, jadikan kekuatan untuk kami menuju apa yang Engkau cintai. Ya Allah apa yang Engkau melarang kami dari apa yang kami cintai, maka jadikanlah kekosongan itu apa-apa yang mengantarkan kami menuju sesuatu yang Engkau cintai."
     },
@@ -78,7 +78,7 @@
       "title": "Doa Memohon Kemudahan Urusan",
       "repeat": 1,
       "type": "single",
-      "arabic": "اَللّٰهُمَّ يَسِّرْ لَنَا أُمُوْرَنَا، وَأُمُوْرَ وَالِدَيْنَا وَأُمُوْرَ أَسَاتِذَتِنَا وَأُسْتَاذَاتِنَا وَأُمُوْرَ مَعْهَدِنَا وَمُؤَسَّسَتِنَا (Yatim Mandiri) أُمُوْرَ الدُّنْيَا وَالْأٰخِرَةِ مَا دَامَتِ السَّمٰوَاتُ وَالْأَرْضُ، إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "arabic": "اَللّٰهُمَّ يَسِّرْ لَنَا أُمُوْرَنَا . وَأُمُوْرَ وَالِدَيْنَا وَأُمُوْرَ أَسَاتِذَتِنَا وَأُسْتَاذَاتِنَا وَأُمُوْرَ مَعْهَدِنَا وَمُؤَسَّسَتِنَا (Yatim Mandiri) أُمُوْرَ الدُّنْيَا وَالْأٰخِرَةِ مَا دَامَتِ السَّمٰوَاتُ وَالْأَرْضُ . إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
       "latin": "Allāhumma yassir lanā umūranā, wa umūra wālidīnā, wa umūra asātidzinā wa ustadzātinā, wa umūra ma‘hadinā wa mu’assasatinā (Yatim Mandiri) umūrad-dunyā wal-ākhirati mā dāmatis-samāwātu wal-arḍ, innaka ‘alā kulli syai'in qadīr.",
       "translation": "Ya Allah, mudahkanlah bagi kami urusan-urusan kami, dan urusan-urusan orang tua kami, dan urusan-urusan guru-guru laki-laki kami dan guru-guru perempuan kami, dan urusan-urusan pondok kami dan yayasan kami (Yatim Mandiri), urusan-urusan dunia dan akhirat, selama langit dan bumi masih ada. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu."
     },
